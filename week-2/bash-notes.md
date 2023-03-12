@@ -62,7 +62,6 @@ $ cat data.txt | grep millionth
 ```powershell
 $ sort data.txt | uniq -u
 ```
-
 > The above command will return as a result line from the file that is repeated only once.
 
 ```powershell
@@ -70,6 +69,10 @@ $ strings data.txt | grep ==========
 ```
 > Finds a string that is human-readable and whose preceding chars are equal signs.
 
+```powershell
+$ base64 -d data.txt
+```
+> The command used to decode a base64 based file.
 
 ### Note!
 
