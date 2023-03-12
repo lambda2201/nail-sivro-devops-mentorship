@@ -1,8 +1,8 @@
 #!/bin/bash
 # using a variable to hold the list
 
-list = "Zenica Travnik Vitez Busovaca"
-list = $list" Sarajevo"
+list="Zenica Travnik Vitez Busovaca"
+list=$list" Sarajevo"
 
 for town in $list
 do 
