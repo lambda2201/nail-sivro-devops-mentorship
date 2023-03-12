@@ -71,8 +71,14 @@ $ strings data.txt | grep ==========
 > Finds a string that is human-readable and whose preceding chars are equal signs.
 
 
-#### Note!
+### Note!
 
 ```LaTex
-I found most of the commands from colleagues who had already done this task and from other available online sources. of course, I further researched the commands and played with them in order to learn them as well as possible.
+I found most of the commands from colleagues who had already done this task and from other available online sources. Of course, I further researched the commands and played with them in order to learn them as well as possible.
 ```
+
+### Evidence of level achievement
+
+*I have saved a screenshot of each level that I have completed to location [Bandit levels](https://github.com/lambda2201/nail-sivro-devops-mentorship/tree/week-2-bandit-labs/week-2/bandit-screenshots) in order to keep this document as clean as possible. Below I will just paste a screenshot of access to level 11.*
+
+![Bandit11](bandit-screenshots/bandit11.jpg)
